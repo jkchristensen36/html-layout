@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  display: block;
+}
+
+.header-box {
+  box-sizing: content-box;
+  background-color: royalblue;
+  float: left;
+  height: 125px;
+  width: 125px;
+  margin: 35px;
+}
+
+.header {
+  box-sizing: border-box;
+  height: 15vh;
+  width: 100vw;
+  background-color: lightgray;
+ 
+}
+
+.content {
+  height: 25vh;
+  width: 100vw;
+  box-sizing: border-box;
+  padding: 50px;
+  background-color: white;
+}
+
+.text {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row1 {
+  height: 15vh;
+  width: 100vw;
+  background-color: royalblue;
+}
+
+.row2 {
+  height: 15vh;
+  width: 100vw;
+  background-color: aqua;
+}
+
+.row3 {
+  height: 15vh;
+  width: 100vw;
+  background-color: lightgreen;
+}
+
+.row4 {
+  height: 15vh;
+  width: 100vw;
+  background-color: gold;
+}
